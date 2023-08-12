@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "btCNQLrvZYsnL+MJZY+0bkewcmLQpAAMfF5gfEhloLP8yl9nuLy63OqY1HsI1GOb79PF7oiWTAAiRJchVnWS5w==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\research RabbitMQ\\4-Routing\\Topic Exchange\\PaymentsConsumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
